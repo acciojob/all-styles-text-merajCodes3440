@@ -1,13 +1,11 @@
 
 /* Your CSS Code here. */
-div{
+h1{
 	padding: 10px;
 	background-color:purple;
 	font-size:20px;
 	width:200px;
 	border-left: 5px solid green;
 /* 	border-left-color:green; */
-}
-h1{
 	color:white;
 }
